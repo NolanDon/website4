@@ -8,7 +8,7 @@ export const personalData = {
   address: 'Canada',
   github: 'https://github.com/NolanDon',
   facebook: 'https://www.facebook.com',
-  linkedIn: 'https://www.linkedin.com/nolan-boxill/',
+  linkedIn: 'https://ca.linkedin.com/in/nolan-boxill',
   twitter: 'https://twitter.com/',
   stackOverflow: 'https://stackoverflow.com/',
   leetcode: "https://leetcode.com/",
