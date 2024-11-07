@@ -46,27 +46,27 @@ function HeroSection() {
             >
               <BsLinkedin size={30} />
             </Link>
-            <Link
+            {/* <Link
               href={personalData.facebook}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <FaFacebook size={30} />
-            </Link>
-            <Link
+            </Link> */}
+            {/* <Link
               href={personalData.leetcode}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <SiLeetcode size={30} />
-            </Link>
-            <Link
+            </Link> */}
+            {/* <Link
               href={personalData.twitter}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <FaTwitterSquare size={30} />
-            </Link>
+            </Link> */}
           </div>
 
           <div className="flex items-center gap-3">
@@ -130,21 +130,31 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">AWS</span>
+                <span className="text-amber-300">Firebase</span>
+                <span className="text-gray-400">{"', "}</span>
+                <span className="text-amber-300">Fastlane</span>
+                <span className="text-gray-400">{"', "}</span>
+                <span className="text-amber-300"></span>
+                <span className="text-gray-400">{"', "}</span>
+                <span className="text-amber-300">Kotlin</span>
+                <span className="text-gray-400">{"', "}</span>
+                <span className="text-amber-300">Swift</span>
+                <span className="text-gray-400">{"', "}</span>
+                <span className="text-amber-300">Maestro</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-white">hardWorker:</span>
+                <span className="ml-4 lg:ml-8 mr-2 text-white">dedicated:</span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">,</span>
               </div>
               <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-white">quickLearner:</span>
+                <span className="ml-4 lg:ml-8 mr-2 text-white">solutionist:</span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">,</span>
               </div>
               <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-white">problemSolver:</span>
+                <span className="ml-4 lg:ml-8 mr-2 text-white">builder:</span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">,</span>
               </div>
@@ -159,12 +169,12 @@ function HeroSection() {
               </div>
               <div>
                 <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
-                <span className="mr-2 text-white">hardWorker</span>
+                <span className="mr-2 text-white">mentor</span>
                 <span className="text-amber-300">&amp;&amp;</span>
               </div>
               <div>
                 <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
-                <span className="mr-2 text-white">problemSolver</span>
+                <span className="mr-2 text-white">leader</span>
                 <span className="text-amber-300">&amp;&amp;</span>
               </div>
               <div>
