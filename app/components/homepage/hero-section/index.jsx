@@ -113,7 +113,7 @@ function HeroSection() {
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
-                <span className="text-gray-400">{`['`}</span>
+                <span className="text-gray-400">{` ['`}</span>
                 <span className="text-amber-300">React</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NextJS</span>
@@ -131,15 +131,13 @@ function HeroSection() {
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Firebase</span>
-                <span className="text-gray-400">{"', "}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Fastlane</span>
-                <span className="text-gray-400">{"', "}</span>
-                <span className="text-amber-300"></span>
-                <span className="text-gray-400">{"', "}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Kotlin</span>
-                <span className="text-gray-400">{"', "}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Swift</span>
-                <span className="text-gray-400">{"', "}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Maestro</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
