@@ -2,7 +2,7 @@ export const personalData = {
   name: "Nolan Boxill",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "I’ve worked extensively in mobile development, building everything from the ground up, including complete CI/CD pipelines. I’ve led the planning and execution of projects, delegating tasks to teams and mentoring others along the way. I’m always up for a challenge—whether it’s learning new languages or pushing the envelope on innovation. I’ve managed mobile development profiles, tackled complex bugs, and developed comprehensive test suites to ensure everything runs smoothly.",
+  description: "I have extensive experience in mobile development, where I've built systems to streamline deployments and improve workflow efficiency. I’ve led project planning and execution, delegated tasks across teams, and mentored others to help them grow. I thrive on challenges—whether it’s driving innovation, designing systems or refactoring legacy systems. I’ve managed mobile development profiles, resolved complex bugs, and developed comprehensive test suites to ensure go-to-market deadlines are met with reliability.",
   email: 'nolan.donb@gmail.com',
   phone: '+14037962105',
   address: 'Canada',
