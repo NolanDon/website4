@@ -65,6 +65,10 @@ function Experience() {
                           <p className="text-sm sm:text-base">
                             {experience.company}
                           </p>
+                          <p></p>
+                          <p className="text-sm text-[#16f2b3] gap-x-8 py-3">
+                            {experience.description}
+                          </p>
                         </div>
                       </div>
                     </div>

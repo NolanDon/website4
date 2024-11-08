@@ -1,20 +1,23 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Developer II',
+    title: 'Fullstack Developer II',
     company: "Helcim Inc.",
-    duration: "(Sep 2020 - Present)"
+    duration: "(Sep 2020 - Present)",
+    description: "Easy and affordable solution for small and medium businesses accepting credit card payments in-person or online."
   },
   {
     id: 2,
-    title: "Fullstack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(May 2020 - Sep 2020)"
+    title: "Fullstack Developer I",
+    company: "Chef University",
+    duration: "(May 2020 - Sep 2020)",
+    description: "Online platform connecting users with live culinary instructors"
   },
   {
     id: 3,
-    title: "Software Developer",
+    title: "Fullstack Developer",
     company: "Neo Financial",
-    duration: "(Jan 2019 - May 2020)"
+    duration: "(Jan 2019 - May 2020)",
+    description: "Leading financial technology company that’s building a more rewarding financial experience."
   }
 ]

@@ -124,7 +124,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NestJS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MySql</span>
+                <span className="text-amber-300">MySQL</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -138,7 +138,21 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Swift</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Maestro</span>
+                <span className="text-amber-300">Postgres</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">GraphQL</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Docker</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Terraform</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Java</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">VueJS</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">PHP</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Go</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
