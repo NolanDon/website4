@@ -4,7 +4,7 @@ export const experiences = [
     title: 'Fullstack Developer II',
     company: "Helcim Inc.",
     duration: "(Sep 2020 - Present)",
-    description: "Easy and affordable solution for small and medium businesses accepting credit card payments in-person or online."
+    description: "Easy and affordable point-of-sale solution for small and medium businesses accepting credit card payments in-person or online."
   },
   {
     id: 2,
@@ -18,6 +18,6 @@ export const experiences = [
     title: "Fullstack Developer",
     company: "Neo Financial",
     duration: "(Jan 2019 - May 2020)",
-    description: "Leading financial technology company that’s building a more rewarding financial experience."
+    description: "Leading financial technology company, with services that include a high rewarding credit cards, banking and other financial services.."
   }
 ]
